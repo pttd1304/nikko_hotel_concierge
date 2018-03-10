@@ -1,0 +1,62 @@
+[{
+		"time": "4:30",
+		"name": "Johnny Pham",
+		"room": "101",
+		"flight": "ABC-XYZ",
+		"route": "H-A",
+		"charged": "50",
+		"checkNo": "123 Charged by JOHN",
+		"driver": "Johnny",
+		"vehiclePilate": "51N-12345",
+		"remarks": "Handsome dude"
+	},
+	{
+		"time": "5:30",
+		"name": "Emmett Bui",
+		"room": "102",
+		"flight": "ABC-XYZ",
+		"route": "H-A",
+		"charged": "50",
+		"checkNo": "123 Charged by JOHN",
+		"driver": "Johnny",
+		"vehiclePilate": "51N-12345",
+		"remarks": "Multipersonality"
+	},
+	{
+		"time": "6:30",
+		"name": "Han Mac Tu",
+		"room": "103",
+		"flight": "ABC-XYZ",
+		"route": "H-A",
+		"charged": "50",
+		"checkNo": "1234 Charged by JOHN",
+		"driver": "Johnny",
+		"vehiclePilate": "51N-12345",
+		"remarks": "Moon Seller"
+	},
+	{
+		"time": "7:30",
+		"name": "Emy Truong",
+		"room": "101",
+		"flight": "ABC-XYZ",
+		"route": "H-A",
+		"charged": "50",
+		"checkNo": "123 Charged by JOHN",
+		"driver": "Johnny",
+		"vehiclePilate": "51N-12345",
+		"remarks": "Handsome dude's girlfriend"
+	},
+	{
+		"time": "10:30",
+		"name": "John Cena",
+		"room": "202",
+		"flight": "ABC-XYZ",
+		"route": "H-A",
+		"charged": "50",
+		"checkNo": "123 Charged by JOHN",
+		"driver": "Johnny",
+		"vehiclePilate": "51N-12345",
+		"remarks": "Cannot be seen"
+	}
+
+]

@@ -1,0 +1,38 @@
+{
+"1":
+    {
+        "name":"Johnny",
+        "dob":"04-13-1996",
+        "gender":"male"
+    },
+ "2" :
+    {
+        "name":"Emy",
+        "dob":"07-20-1996",
+        "gender":"female"
+    },
+ "3":  
+    {
+        "name":"Justin",
+        "dob":"07-26-1996",
+        "gender":"male"
+    },
+  "4":  
+    {
+        "name":"Andrey",
+        "dob":"07-26-1980",
+        "gender":"male"
+    },
+  "5":  
+    {
+        "name":"Kirill",
+        "dob":"07-26-1989",
+        "gender":"male"
+    },
+    "6":  
+    {
+        "name":"Camila",
+        "dob":"07-26-1992",
+        "gender":"female"
+    } 
+}
